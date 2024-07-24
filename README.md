@@ -3,8 +3,6 @@
 
 - 👨‍💻 Algunos de mis proyectos en [https://alvarolmedo.com](https://alvarolmedo.com)
 
-- Linkedin => [https://www.linkedin.com/in/alvaroolmedoaznar](https://www.linkedin.com/in/alvaroolmedoaznar)
-
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
