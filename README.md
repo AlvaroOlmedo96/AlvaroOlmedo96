@@ -2,7 +2,6 @@
 <h1 align="center">Hola, me llamo <a href="https://alvarolmedo.com">Álvaro Olmedo</a> 👋</h1>
 <h3 align="center">👨‍💻 Soy desarrollador web, especializándome en el desarrollo Frontend y aplicaciones híbridas.</h3>
 </div>
-<img src="https://media.licdn.com/dms/image/D4D16AQHigNbnef9bsQ/profile-displaybackgroundimage-shrink_200_800/0/1707408596143?e=2147483647&v=beta&t=tXL_HuPPHkO9wermjJPLe73G53UpXDPGIa8SGU6Ygoo">
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
